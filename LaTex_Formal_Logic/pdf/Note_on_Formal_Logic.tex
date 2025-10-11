@@ -1,0 +1,186 @@
+\documentclass[12pt,a4paper]{book}
+
+\usepackage{amsmath,amssymb}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+
+% Hyperref tanpa kotak merah
+\usepackage[hidelinks]{hyperref}
+
+% Nomor tanpa leading zero untuk section
+\renewcommand{\thesection}{\arabic{section}}
+\renewcommand{\thesubsection}{\thesection.\arabic{subsection}}
+\renewcommand{\thesubsubsection}{\thesubsection.\arabic{subsubsection}}
+
+% Nomor chapter dengan angka Romawi
+\renewcommand{\thechapter}{\Roman{chapter}}
+
+\title{Note on Formal Logic}
+\author{Samena Bahleri}
+\date{\today}
+
+\begin{document}
+
+\frontmatter
+\maketitle
+\tableofcontents
+
+\mainmatter
+
+% ===== PART I =====
+\chapter{Introduction}
+
+\section{Etymology and Terminology}\label{etymology-and-terminology}
+Normally, in the study of logic, the first thing we need to understand
+is the question: what is logic in terms of its definition?
+Etymologically, the word logic comes from the Greek word (logos).
+The word logos carries various meanings, including ``word,'' ``speech,''
+``reason,'' ``explanation,'' and ``principle.'' Over time, this term was
+adopted into Latin as \emph{logica}, which means the art or science of
+reasoning. On the other hand, in terms of terminology, logic is the
+systematic study of valid inference and correct reasoning. Therefore, it
+can be understood that when we study logic, what we are learning is how
+to evaluate things rationally and systematically to reach a solid
+understanding and draw a sound conclusion. One striking statement about
+logic comes from the philosopher John Locke, who said that ``logic is
+the anatomy of thought.'' In this metaphorical statement, we can also
+understand that by studying logic, we are essentially learning about the
+structure of thought itself.
+
+\section{Logic in History}\label{logic-in-history}
+
+\subsection{Philosophical revolution}\label{philosophical-revolution}
+In this era, humans began to think not only about how to live in their
+environment, but also about themselves, truth, and ideas. One figure
+whose statement represents this revolution is
+\href{https://en.wikipedia.org/wiki/Socrates}{Socrates}, with his famous
+quote: ``The unexamined life is not worth living.''. To understand the
+systematic development of logic, we can follow the stages of history
+below:
+
+\paragraph{2.1.1. Pre-Aristotelian Era}\label{pre-aristotelian-era}\
+
+In this era, humans tried to understand the world through myth,
+narratives shaped by imagination and traditional constructions. Thinkers
+of this era include:
+
+\begin{enumerate}
+
+\item \href{https://en.wikipedia.org/wiki/Thales_of_Miletus}{Thales}
+  
+He believed the world originated from water. This was considered rational
+at the time and reflected the knowledge of that era. Thales is often
+regarded as the first philosopher and the first to consider the problem
+of the one and the many.
+
+\item \href{https://en.wikipedia.org/wiki/Anaximander}{Anaximander}
+  
+He questioned Thales' idea: If everything comes from water, then where
+does water come from? He introduced the idea of the \emph{Apeiron} (the
+indefinite/infinite), beginning the philosophical search for a first
+principle (\emph{archê}).
+
+\item \href{https://en.wikipedia.org/wiki/Xenophanes}{Xenophanes} 
+
+As humans began to question truth and divinity, Xenophanes criticized
+anthropomorphic portrayals of gods. Monotheistic ideas began to appear.
+
+\item \href{https://en.wikipedia.org/wiki/Heraclitus}{Heraclitus}
+  
+Famous for the quote: ``You cannot step into the same river twice.'' He
+believed everything is in constant flux, reality is constant change. He
+introduced the concept of Logos as the rational structure behind the
+universe, implying that nature can be understood through patterns.
+
+\item \href{https://en.wikipedia.org/wiki/Parmenides}{Parmenides}
+
+Opposing Heraclitus, Parmenides argued that opinions do not necessarily
+reflect truth. In his view: What is, is; what is not, is not. Truth lies
+in existence, while change is an illusion.
+
+\item \href{https://simple.wikipedia.org/wiki/Zeno_of_Elea}{Zeno} 
+ 
+He raised questions about the relationship between logic and sensory
+data. One of his most famous arguments is the Achilles and the Tortoise
+paradox.
+\end{enumerate}
+
+\paragraph{2.1.2. Aristotelian era}\label{aristotelian-era}\
+
+\href{https://id.wikipedia.org/wiki/Aristoteles}{Aristotle} is regarded
+as the Father of Logic. He developed a system of categories, e.g.,
+Substance, Quantity, Quality, Relation, Place, Time, Position, State,
+Action, Passion. He also developed syllogistic reasoning:  
+\emph{All men are mortal. Socrates is a man. Therefore, Socrates is
+mortal.} This illustrates the basics of formal logic.
+
+\subsection{Modern era}\label{modern-era}
+In the modern era, logic evolved in three main phases:
+
+\begin{enumerate}
+\item Enlightenment
+
+During the Enlightenment, philosophy grew in popularity, especially in
+terms of rationality, scientific methods, and freedom of thought.
+Philosophers and mathematicians like
+\href{https://en.wikipedia.org/wiki/Ren\%C3\%A9_Descartes}{René
+Descartes},
+\href{https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz}{Gottfried
+Wilhelm Leibniz}, and
+\href{https://en.wikipedia.org/wiki/Immanuel_Kant}{Immanuel Kant} began
+developing more systematic and reflective approaches to logic,
+emphasizing reason as the means to acquire knowledge.
+
+\item 19 Century
+
+``Logic'' experienced a revolution. Thinkers such as
+\href{https://simple.wikipedia.org/wiki/George_Boole}{George Boole},
+\href{https://en.wikipedia.org/wiki/Augustus_De_Morgan}{Augustus De
+Morgan}, and \href{https://id.wikipedia.org/wiki/Gottlob_Frege}{Gottlob
+Frege} developed symbolic and mathematical logic, which was far more
+precise than traditional Aristotelian logic. Frege introduced predicate
+logic, leading to non-classical
+logic.\href{https://id.wikipedia.org/wiki/Georg_Cantor}{Georg Cantor}
+founded set theory, now a foundation of modern mathematics. The dominant
+school of thought: Logicism, which holds that mathematics can be reduced
+to logic.
+
+\item 20 Century
+
+``Logic'' continued to grow and was applied in mathematics, linguistics,
+and computer science. This era saw the emergence of modal logic and its
+branches, such as:
+
+\begin{enumerate}
+\item Alethic logic
+\item Deontic logic
+\item Epistemic logic
+\item Doxastic logic
+\item Temporal logic
+\item Dynamic logic
+\item Action logic
+\item Intuitionistic logic
+\item Multi-modal logic
+\item Provability logic
+\end{enumerate}
+
+Meanwhile, mathematics faced a foundational crisis, initiated by \href{https://id.wikipedia.org/wiki/Kurt_G\%C3\%B6del}{Kurt Gödel}.
+Where the 19th century saw Logicism, the 20th century saw new ``isms'':
+
+\begin{enumerate}
+\item
+  Formalism: Logic is symbol manipulation based on formal rules.
+\item
+  Intuitionism: Mathematical truths are mental constructions.
+\end{enumerate}
+\end{enumerate}
+
+\chapter{Arguments}
+\section{Definition of Arguments}\label{definition-of-arguments}
+
+
+\end{document}
