@@ -1,9 +1,0 @@
-\contentsline {chapter}{\numberline {I}Introduction}{1}{chapter.1}%
-\contentsline {section}{\numberline {1}Etymology and Terminology}{1}{section.1.1}%
-\contentsline {section}{\numberline {2}Logic in History}{1}{section.1.2}%
-\contentsline {subsection}{\numberline {2.1}Philosophical revolution}{1}{subsection.1.2.1}%
-\contentsline {paragraph}{2.1.1. Pre-Aristotelian Era}{1}{paragraph*.2}%
-\contentsline {paragraph}{2.1.2. Aristotelian era}{2}{paragraph*.3}%
-\contentsline {subsection}{\numberline {2.2}Modern era}{2}{subsection.1.2.2}%
-\contentsline {chapter}{\numberline {II}Arguments}{5}{chapter.2}%
-\contentsline {section}{\numberline {1}Definition of Arguments}{5}{section.2.1}%
