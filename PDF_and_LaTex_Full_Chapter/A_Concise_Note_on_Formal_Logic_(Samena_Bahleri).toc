@@ -1,0 +1,233 @@
+\contentsline {section}{\numberline {1}Introduction}{9}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Etymology and Terminology}{9}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Logic in History}{9}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Philosophical revolution}{9}{subsubsection.1.2.1}%
+\contentsline {paragraph}{Pre-Aristotelian Era}{9}{paragraph*.1}%
+\contentsline {paragraph}{Aristotelian era}{11}{paragraph*.2}%
+\contentsline {subsubsection}{\numberline {1.2.2}Modern era}{11}{subsubsection.1.2.2}%
+\contentsline {section}{\numberline {2}Arguments}{12}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Component}{12}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1} Statement}{12}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Non-Statement}{12}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Open sentence}{13}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Conclusion}{13}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5}Inference}{13}{subsubsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.2}Formal and Informal}{14}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Formal Logic}{14}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Informal Logic}{14}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Formal vs Informal}{14}{subsubsection.2.2.3}%
+\contentsline {section}{\numberline {3}Deductive and Inductive}{15}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Deductive}{15}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Inductive}{16}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Deduction vs/and Induction}{17}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Scope of Deductive and Inductive }{18}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Scope of Deductive}{18}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Validity}{18}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Soundness}{18}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Scope of Inductive}{19}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Strong Argument}{19}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Cogent}{19}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Weak Argument}{19}{subsubsection.4.2.3}%
+\contentsline {section}{\numberline {5}Symbolization}{20}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Role}{21}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Proposition}{21}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Relation}{21}{subsubsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.2}Purpose}{22}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Well-Formed Formula}{23}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Expression}{23}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Ambiguity in Natural Language}{24}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Lexical Ambiguity}{24}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Structural Ambiguity}{24}{subsubsection.6.1.3}%
+\contentsline {section}{\numberline {7}Truth Table}{25}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Truth Table for Disjunction}{25}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Truth Table for Conjunction}{25}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Truth Table for Implication}{26}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Truth Table for Negation}{26}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Truth Table for Biconditional}{26}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Truth Table for NAND}{26}{subsection.7.6}%
+\contentsline {subsection}{\numberline {7.7}Truth Table for NOR}{26}{subsection.7.7}%
+\contentsline {section}{\numberline {8}Partial Truth Table}{27}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Example 1: Tautology}{27}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Example 2: Contradiction}{28}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Example 3: Equivalence}{28}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Example 4: Validity}{29}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Example 5: Contingency}{29}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}Example 6: Satisfiability}{30}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}Example 7: Unsatisfiability}{30}{subsection.8.7}%
+\contentsline {subsection}{\numberline {8.8}Example 8: Non-Equivalence}{30}{subsection.8.8}%
+\contentsline {subsection}{\numberline {8.9}Example 9: Invalidity}{31}{subsection.8.9}%
+\contentsline {subsection}{\numberline {8.10}Example 10: Multiple Premises Validity}{31}{subsection.8.10}%
+\contentsline {section}{\numberline {9}Compound Statements}{31}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Example 1}{32}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Example 2}{32}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Example 3}{33}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Example 4}{33}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Example 5}{33}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Example 6}{34}{subsection.9.6}%
+\contentsline {section}{\numberline {10}Semantic concepts }{35}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Tautology}{35}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Contradiction}{35}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Equivalence}{35}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Contingency}{36}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Satisfiability}{37}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}Validity}{37}{subsection.10.6}%
+\contentsline {subsection}{\numberline {10.7}Soundness}{37}{subsection.10.7}%
+\contentsline {subsection}{\numberline {10.8}Entailment}{38}{subsection.10.8}%
+\contentsline {subsection}{\numberline {10.9}Completeness}{39}{subsection.10.9}%
+\contentsline {section}{\numberline {11}Venn Diagram}{39}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Venn Diagram for Conjunction}{39}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Venn Diagram for Disjunction}{40}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}Venn Diagram for Negation}{40}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.4}Venn Diagram for Implication}{41}{subsection.11.4}%
+\contentsline {subsection}{\numberline {11.5}Venn Diagram for Biconditional}{41}{subsection.11.5}%
+\contentsline {subsection}{\numberline {11.6}More Examples}{42}{subsection.11.6}%
+\contentsline {section}{\numberline {12}Rules of Inferences}{43}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Modus Ponens (\(MP\))}{43}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}Modus Tollens (\(MT\))}{43}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}Hypothetical Syllogism (\(HS\))}{44}{subsection.12.3}%
+\contentsline {subsection}{\numberline {12.4}Disjunctive Syllogism (\(DS\))}{44}{subsection.12.4}%
+\contentsline {subsection}{\numberline {12.5}Constructive Dilemma (\(CD\))}{44}{subsection.12.5}%
+\contentsline {subsection}{\numberline {12.6}Addition (\(Add\))}{45}{subsection.12.6}%
+\contentsline {subsection}{\numberline {12.7}Simplification (\(Simp\))}{45}{subsection.12.7}%
+\contentsline {subsection}{\numberline {12.8}Disjunction Elimination (\(DE\))}{46}{subsection.12.8}%
+\contentsline {subsection}{\numberline {12.9}Resolution (\(Res\))}{46}{subsection.12.9}%
+\contentsline {subsection}{\numberline {12.10}Double Negation (\(DN\))}{46}{subsection.12.10}%
+\contentsline {subsection}{\numberline {12.11}Commutation (\(Comm\))}{47}{subsection.12.11}%
+\contentsline {subsection}{\numberline {12.12}Association (\(Assoc\))}{47}{subsection.12.12}%
+\contentsline {subsection}{\numberline {12.13}Distribution (\(Dist\))}{47}{subsection.12.13}%
+\contentsline {subsection}{\numberline {12.14}De Morgan's Laws (\(DeM\))}{48}{subsection.12.14}%
+\contentsline {subsection}{\numberline {12.15}Implication (\(Impl\))}{48}{subsection.12.15}%
+\contentsline {subsection}{\numberline {12.16}Exportation (\(Exp\))}{49}{subsection.12.16}%
+\contentsline {subsection}{\numberline {12.17}Contrapositive (\(Contra\))}{49}{subsection.12.17}%
+\contentsline {subsection}{\numberline {12.18}Reductio Ad Absurdum (\(RAA\))}{50}{subsection.12.18}%
+\contentsline {subsection}{\numberline {12.19}Conditional Proof (\(CP\))}{50}{subsection.12.19}%
+\contentsline {section}{\numberline {13}Natural Deduction Rules}{51}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Conjunction ($\wedge $)}{51}{subsection.13.1}%
+\contentsline {subsubsection}{\numberline {13.1.1}Conjunction Introduction}{51}{subsubsection.13.1.1}%
+\contentsline {subsubsection}{\numberline {13.1.2}Conjunction Elimination}{51}{subsubsection.13.1.2}%
+\contentsline {subsection}{\numberline {13.2}Disjunction ($\vee $)}{51}{subsection.13.2}%
+\contentsline {subsubsection}{\numberline {13.2.1}Disjunction Introduction}{51}{subsubsection.13.2.1}%
+\contentsline {subsubsection}{\numberline {13.2.2}Disjunction Elimination}{51}{subsubsection.13.2.2}%
+\contentsline {subsection}{\numberline {13.3}Implication ($\rightarrow $)}{52}{subsection.13.3}%
+\contentsline {subsubsection}{\numberline {13.3.1}Implication Introduction}{52}{subsubsection.13.3.1}%
+\contentsline {subsubsection}{\numberline {13.3.2}Implication Elimination (Modus Ponens)}{52}{subsubsection.13.3.2}%
+\contentsline {subsection}{\numberline {13.4}Negation ($\neg $)}{52}{subsection.13.4}%
+\contentsline {subsubsection}{\numberline {13.4.1}Negation Introduction}{52}{subsubsection.13.4.1}%
+\contentsline {subsubsection}{\numberline {13.4.2}Negation Elimination}{52}{subsubsection.13.4.2}%
+\contentsline {subsection}{\numberline {13.5}Bottom ($\bot $)}{52}{subsection.13.5}%
+\contentsline {subsubsection}{\numberline {13.5.1}Bottom Elimination (Ex Falso Quodlibet)}{52}{subsubsection.13.5.1}%
+\contentsline {subsection}{\numberline {13.6}Reiteration (R)}{52}{subsection.13.6}%
+\contentsline {subsection}{\numberline {13.7}Reductio Ad Absurdum (RAA)}{53}{subsection.13.7}%
+\contentsline {section}{\numberline {14}Semantic Tableaux}{53}{section.14}%
+\contentsline {subsection}{\numberline {14.1}Conjunction Decomposition }{53}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2}Double Negation}{53}{subsection.14.2}%
+\contentsline {subsection}{\numberline {14.3}Negated Disjunction Decomposition}{53}{subsection.14.3}%
+\contentsline {subsection}{\numberline {14.4}Negated Conditional Decomposition }{53}{subsection.14.4}%
+\contentsline {subsection}{\numberline {14.5}Disjunction Decomposition}{54}{subsection.14.5}%
+\contentsline {subsection}{\numberline {14.6}Negated Conjunction Decomposition }{54}{subsection.14.6}%
+\contentsline {subsection}{\numberline {14.7}Conditional Decomposition }{54}{subsection.14.7}%
+\contentsline {subsection}{\numberline {14.8}Biconditional Decomposition}{54}{subsection.14.8}%
+\contentsline {subsection}{\numberline {14.9}Negated Biconditional Decomposition}{54}{subsection.14.9}%
+\contentsline {section}{\numberline {15}First Order Logic }{54}{section.15}%
+\contentsline {subsection}{\numberline {15.1}Sentence of FOL}{55}{subsection.15.1}%
+\contentsline {subsection}{\numberline {15.2}Terms and formulas}{55}{subsection.15.2}%
+\contentsline {subsection}{\numberline {15.3}Bracketing Conventions in FOL}{56}{subsection.15.3}%
+\contentsline {subsection}{\numberline {15.4}Superscripts on Predicates in FOL}{56}{subsection.15.4}%
+\contentsline {subsection}{\numberline {15.5}Name}{56}{subsection.15.5}%
+\contentsline {subsection}{\numberline {15.6}Predicate}{57}{subsection.15.6}%
+\contentsline {subsection}{\numberline {15.7}Quantifiers}{58}{subsection.15.7}%
+\contentsline {subsection}{\numberline {15.8}Domains}{59}{subsection.15.8}%
+\contentsline {subsection}{\numberline {15.9}Quantifiers and Scope}{60}{subsection.15.9}%
+\contentsline {subsection}{\numberline {15.10}The Order of Quantifiers}{61}{subsection.15.10}%
+\contentsline {subsection}{\numberline {15.11}Free and Bound Variables}{64}{subsection.15.11}%
+\contentsline {subsection}{\numberline {15.12}Quantifier Equivalences}{66}{subsection.15.12}%
+\contentsline {section}{\numberline {16}Multi Place Predicates}{67}{section.16}%
+\contentsline {subsection}{\numberline {16.1}Two-Place Predicates}{67}{subsection.16.1}%
+\contentsline {subsection}{\numberline {16.2}Three-Place Predicates}{68}{subsection.16.2}%
+\contentsline {subsection}{\numberline {16.3}Four-Place Predicates}{68}{subsection.16.3}%
+\contentsline {section}{\numberline {17}Identity and Quantity}{69}{section.17}%
+\contentsline {subsection}{\numberline {17.1}Identity}{69}{subsection.17.1}%
+\contentsline {subsection}{\numberline {17.2}Quantity}{70}{subsection.17.2}%
+\contentsline {section}{\numberline {18}Definite Descriptions}{73}{section.18}%
+\contentsline {subsection}{\numberline {18.1}Russell’s Analysis}{73}{subsection.18.1}%
+\contentsline {subsection}{\numberline {18.2}P. F. Strawson's Critic}{74}{subsection.18.2}%
+\contentsline {subsection}{\numberline {18.3}Keith Donnellan's Idea}{74}{subsection.18.3}%
+\contentsline {section}{\numberline {19}Semantic Concepts for FOL}{75}{section.19}%
+\contentsline {subsection}{\numberline {19.1}Validity}{75}{subsection.19.1}%
+\contentsline {subsection}{\numberline {19.2}Satisfiability}{75}{subsection.19.2}%
+\contentsline {subsection}{\numberline {19.3}Contradiction}{75}{subsection.19.3}%
+\contentsline {subsection}{\numberline {19.4}Entailment}{75}{subsection.19.4}%
+\contentsline {subsection}{\numberline {19.5}Non-Entailment}{76}{subsection.19.5}%
+\contentsline {subsection}{\numberline {19.6}Joint Satisfiability}{76}{subsection.19.6}%
+\contentsline {subsection}{\numberline {19.7}Logical Equivalence}{76}{subsection.19.7}%
+\contentsline {subsection}{\numberline {19.8}Contingency}{76}{subsection.19.8}%
+\contentsline {subsection}{\numberline {19.9}Expressibility}{76}{subsection.19.9}%
+\contentsline {subsection}{\numberline {19.10}Definability}{76}{subsection.19.10}%
+\contentsline {subsection}{\numberline {19.11}Implicit Definability}{77}{subsection.19.11}%
+\contentsline {subsection}{\numberline {19.12}Finite Expressibility}{77}{subsection.19.12}%
+\contentsline {subsection}{\numberline {19.13}Cardinality Constraints}{77}{subsection.19.13}%
+\contentsline {section}{\numberline {20}Properties of Relations}{77}{section.20}%
+\contentsline {subsection}{\numberline {20.1}Reflexivity}{77}{subsection.20.1}%
+\contentsline {subsection}{\numberline {20.2}Irreflexivity}{77}{subsection.20.2}%
+\contentsline {subsection}{\numberline {20.3}Asymmetry}{78}{subsection.20.3}%
+\contentsline {subsection}{\numberline {20.4}Symmetry}{78}{subsection.20.4}%
+\contentsline {subsection}{\numberline {20.5}Antisymmetry}{78}{subsection.20.5}%
+\contentsline {subsection}{\numberline {20.6}Transitivity}{78}{subsection.20.6}%
+\contentsline {subsection}{\numberline {20.7}Connectivity}{79}{subsection.20.7}%
+\contentsline {section}{\numberline {21}Relation on a Set}{79}{section.21}%
+\contentsline {subsection}{\numberline {21.1}Union}{81}{subsection.21.1}%
+\contentsline {subsection}{\numberline {21.2}Intersection}{83}{subsection.21.2}%
+\contentsline {subsection}{\numberline {21.3}Difference}{87}{subsection.21.3}%
+\contentsline {subsection}{\numberline {21.4}Symmetric Difference}{89}{subsection.21.4}%
+\contentsline {subsection}{\numberline {21.5}Complement}{91}{subsection.21.5}%
+\contentsline {subsection}{\numberline {21.6}Cartesian Product}{93}{subsection.21.6}%
+\contentsline {subsection}{\numberline {21.7}Subset}{95}{subsection.21.7}%
+\contentsline {subsection}{\numberline {21.8}Power Set}{98}{subsection.21.8}%
+\contentsline {section}{\numberline {22}Relations Order }{99}{section.22}%
+\contentsline {subsection}{\numberline {22.1}Preorder}{99}{subsection.22.1}%
+\contentsline {subsection}{\numberline {22.2}Partial Order}{100}{subsection.22.2}%
+\contentsline {subsection}{\numberline {22.3}Linear Order}{101}{subsection.22.3}%
+\contentsline {subsection}{\numberline {22.4}Strict Order}{102}{subsection.22.4}%
+\contentsline {subsection}{\numberline {22.5}Strict Linear Order}{102}{subsection.22.5}%
+\contentsline {section}{\numberline {23}Operations on Relations}{104}{section.23}%
+\contentsline {subsection}{\numberline {23.1}Inverse of a Relation}{104}{subsection.23.1}%
+\contentsline {subsection}{\numberline {23.2}Relative Product of Relations}{105}{subsection.23.2}%
+\contentsline {subsection}{\numberline {23.3}Restriction of a Relation}{105}{subsection.23.3}%
+\contentsline {subsection}{\numberline {23.4}Application of a Relation to a Set}{106}{subsection.23.4}%
+\contentsline {subsection}{\numberline {23.5}Transitive Closure}{107}{subsection.23.5}%
+\contentsline {subsection}{\numberline {23.6}Reflexive Transitive Closure}{107}{subsection.23.6}%
+\contentsline {section}{\numberline {24}Set Properties and Laws}{108}{section.24}%
+\contentsline {subsection}{\numberline {24.1}Commutative Laws}{108}{subsection.24.1}%
+\contentsline {subsection}{\numberline {24.2}Associative Laws}{108}{subsection.24.2}%
+\contentsline {subsection}{\numberline {24.3}Distributive Laws}{108}{subsection.24.3}%
+\contentsline {subsection}{\numberline {24.4}De Morgan's Laws}{109}{subsection.24.4}%
+\contentsline {subsection}{\numberline {24.5}Identity Laws}{109}{subsection.24.5}%
+\contentsline {subsection}{\numberline {24.6}Idempotent Laws}{109}{subsection.24.6}%
+\contentsline {subsection}{\numberline {24.7}Complement Laws}{110}{subsection.24.7}%
+\contentsline {subsection}{\numberline {24.8}Absorption Laws}{110}{subsection.24.8}%
+\contentsline {section}{\numberline {25}Truth Value for FOL}{110}{section.25}%
+\contentsline {subsection}{\numberline {25.1}Example 1}{110}{subsection.25.1}%
+\contentsline {subsection}{\numberline {25.2}Example 2}{111}{subsection.25.2}%
+\contentsline {subsection}{\numberline {25.3}Example 3}{111}{subsection.25.3}%
+\contentsline {subsection}{\numberline {25.4}Example 4}{112}{subsection.25.4}%
+\contentsline {subsection}{\numberline {25.5}Example 5}{112}{subsection.25.5}%
+\contentsline {section}{\numberline {26}Natural Deduction for FOL}{112}{section.26}%
+\contentsline {subsection}{\numberline {26.1}Universal Elimination ($\forall $E)}{112}{subsection.26.1}%
+\contentsline {subsection}{\numberline {26.2}Universal Introduction ($\forall $I)}{112}{subsection.26.2}%
+\contentsline {subsection}{\numberline {26.3}Existential Introduction ($\exists $I)}{113}{subsection.26.3}%
+\contentsline {subsection}{\numberline {26.4}Existential Elimination ($\exists $E)}{113}{subsection.26.4}%
+\contentsline {subsection}{\numberline {26.5}Identity Introduction ($=$I)}{113}{subsection.26.5}%
+\contentsline {subsection}{\numberline {26.6}Identity Elimination ($=$E)}{113}{subsection.26.6}%
+\contentsline {section}{\numberline {27}Boolean, DNF, and CNF}{113}{section.27}%
+\contentsline {subsection}{\numberline {27.1}Boolean}{113}{subsection.27.1}%
+\contentsline {subsubsection}{\numberline {27.1.1}General Construction}{115}{subsubsection.27.1.1}%
+\contentsline {subsection}{\numberline {27.2}Disjunctive Normal Form (DNF)}{116}{subsection.27.2}%
+\contentsline {subsubsection}{\numberline {27.2.1}General Construction}{117}{subsubsection.27.2.1}%
+\contentsline {subsection}{\numberline {27.3}Conjunctive Normal Form (CNF)}{118}{subsection.27.3}%
+\contentsline {subsubsection}{\numberline {27.3.1}General Construction}{119}{subsubsection.27.3.1}%
+\contentsline {section}{\numberline {28}Limit of Logic}{127}{section.28}%
+\contentsline {subsection}{\numberline {28.1}Contextual Meaning}{127}{subsection.28.1}%
+\contentsline {subsection}{\numberline {28.2}Vagueness}{128}{subsection.28.2}%
+\contentsline {subsection}{\numberline {28.3}Presuppositions}{128}{subsection.28.3}%
+\contentsline {subsection}{\numberline {28.4}Idiomatic Layer}{128}{subsection.28.4}%
+\contentsline {subsection}{\numberline {28.5}Naturalness}{128}{subsection.28.5}%
